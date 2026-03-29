@@ -1,0 +1,412 @@
+// Auto-generated Steam game window rules
+
+//window-rule {
+//    match title="World of Warcraft"
+//    open-on-workspace "games"
+//}
+
+window-rule {
+    match title="FINAL FANTASY VIII - REMASTERED"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="GRANDIA HD Remaster"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Digimon Story Cyber Sleuth: Complete Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Terraria"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Dinkum"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Project Zomboid"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Baldur's Gate 3"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Cyberpunk 2077"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="CHRONO CROSS: THE RADICAL DREAMERS EDITION"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Total War: WARHAMMER III"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Icarus"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Coral Island"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Pathfinder: Wrath of the Righteous - Enhanced Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="The Sims™ 4"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Dragon Age II: Ultimate Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="ELDEN RING"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="tModLoader"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Guild Wars 2®"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Nioh 2 – The Complete Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Tom Clancy's Splinter Cell"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Steam Linux Runtime 2.0 (soldier)"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY VII REMAKE INTERGRADE"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Digimon World: Next Order"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Warhammer 40,000: Dawn of War II - Anniversary Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="V Rising"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Palworld"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="^Lightyear Frontier.*"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Starfield"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Kingdom Come: Deliverance II"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Bellwright"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Arma Reforger"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Clair Obscur: Expedition 33"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Warhammer 40,000: Space Marine 2"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Warhammer 40,000: Rogue Trader"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Grim Dawn"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="The Elder Scrolls III: Morrowind"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Fallout: New Vegas"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="STAR OCEAN THE SECOND STORY R"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Monster Hunter Wilds"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Warframe"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="SMITE 2"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="The Legend of Heroes: Trails in the Sky"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="KINGDOM HEARTS III + Re Mind (DLC)"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Mount & Blade II: Bannerlord"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Grounded 2"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Path of Exile 2"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="No Man's Sky"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Marvel Rivals"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="METAL GEAR SOLID V: THE PHANTOM PAIN"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY VII REBIRTH"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Brawlhalla"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="RimWorld"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="DiRT Rally"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Schedule I"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="GRANDIA II HD Remaster"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Cubic Odyssey"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Where Winds Meet"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY X/X-2 HD Remaster"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY IX"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY VI"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY VII"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Squad"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Stardew Valley"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Factorio"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Divinity: Original Sin 2"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Titan Quest Anniversary Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Dragon Age: Origins - Ultimate Edition"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Satisfactory"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Stationeers"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Hunt: Showdown 1896"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY XII THE ZODIAC AGE"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Graveyard Keeper"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="STAR OCEAN™ - THE LAST HOPE™ - 4K & Full HD Remaster"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="CHRONO TRIGGER"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Risk of Rain 2"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="FINAL FANTASY XV WINDOWS EDITION"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="BattleBit Remastered"
+    open-on-workspace "games"
+}
+
+window-rule {
+    match title="Hogwarts Legacy"
+    open-on-workspace "games"
+}
+

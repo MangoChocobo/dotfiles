@@ -1,0 +1,16 @@
+source /usr/share/cachyos-fish-config/cachyos-config.fish
+
+# overwrite greeting
+# potentially disabling fastfetch
+#function fish_greeting
+#    # smth smth
+#end
+#
+
+fish_add_path ~/.local/bin
+fish_add_path ~/.local/opt/go/bin/
+
+# Generated for envman. Do not edit.
+test -s ~/.config/envman/load.fish; and source ~/.config/envman/load.fish
+
+[ -s "/home/mango/.jabba/jabba.fish" ]; and source "/home/mango/.jabba/jabba.fish"
