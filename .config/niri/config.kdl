@@ -18,4 +18,4 @@ include "./cfg/misc.kdl"
 include "./noctalia.kdl"
 
 
-include "dms/cursor.kdl"
+//include "dms/cursor.kdl"
