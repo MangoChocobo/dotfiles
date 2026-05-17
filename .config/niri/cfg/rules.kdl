@@ -9,6 +9,7 @@
         match app-id="steam"
         exclude title=r#"^[Ss]team$"#
         open-floating true
+        open-on-workspace "games"
     }
 
     window-rule {
@@ -22,7 +23,11 @@
       opacity 1.0
     }
 
-    layer-rule {
-        match namespace="^noctalia-wallpaper*"
-        place-within-backdrop true
+    window-rule{
+        match app-id="vesktop"
+        open-on-workspace "top"
+    }
+    window-rule {
+        match app-id="spotify"
+        open-on-workspace "top"
     }

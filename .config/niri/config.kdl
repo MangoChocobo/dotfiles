@@ -12,6 +12,8 @@ include "./cfg/misc.kdl"
 workspace "web"
 workspace "games"
 workspace "dev"
+workspace "top" {
+    open-on-output "DP-1"
+}
 
 include "./noctalia.kdl"
-
